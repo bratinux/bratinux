@@ -5,6 +5,12 @@
 I build things that respect your privacy and run fast.  
 Debian daily, Neovim for life, power metal on repeat.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bratinux&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bratinux?style=flat-square&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/bratinux?style=flat-square&logo=github&label=Total%20stars" />
+</p>
+
 ---
 
 ## 🔨 What I build
@@ -50,10 +56,10 @@ No bloat, no trackers — just code that works.
 
 ---
 
-## 📈 GitHub stats
+## 📈 GitHub streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratinux&theme=catppuccin_mocha&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratinux&theme=catppuccin_mocha&hide_border=true" width="60%" />
 </p>
 
 ---
