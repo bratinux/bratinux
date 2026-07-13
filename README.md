@@ -54,11 +54,6 @@ No bloat, no trackers — just code that works.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratinux&theme=catppuccin_mocha&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bratinux&layout=compact&theme=catppuccin_mocha&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bratinux&theme=catppuccin_mocha&no-frame=true&column=4&margin-w=10" width="70%" />
 </p>
 
 ---
