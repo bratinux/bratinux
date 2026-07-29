@@ -26,10 +26,10 @@ No bloat, no trackers — just code that works.
 
 | Category | Tools |
 |----------|-------|
-| **OS** | `Debian` `macOS` `Arch` `CachyOS` |
-| **Desktop** | `GNOME` `KDE Plasma` `COSMIC` `XFCE` |
-| **Editor** | `Neovim` `Zed` |
-| **Browser** | `Firefox` + `uBlock` |
+| **OS** | `Debian` `Arch Linux` `macOS` |
+| **Desktop** | `GNOME` `KDE Plasma` `Hyprland` |
+| **Editor** | `Zed` `Neovim` |
+| **Browser** | `Firefox` + `uBlock Origin` |
 | **Phone** | `Xiaomi 17 Pro Max` |
 | **Laptop** | `MacBook Air (M4)` |
 | **Music** | `DragonForce` `Gloryhammer` `Electric Callboy` |
