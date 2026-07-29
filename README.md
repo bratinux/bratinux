@@ -56,14 +56,6 @@ No bloat, no trackers — just code that works.
 
 ---
 
-## 📈 GitHub streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bratinux&theme=catppuccin_mocha&hide_border=true" width="60%" />
-</p>
-
----
-
 ## 🌐 Connect & explore
 
 - **Discord** — `@bratinux` (fastest reply)  
