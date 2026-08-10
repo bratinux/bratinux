@@ -15,7 +15,7 @@ Debian daily, Zed for life, power metal on repeat.
 
 ## 🔨 What I build
 
-- **Discord bots** — fun, lightweight, and easy to extend   
+- **Discord bots** — fun, lightweight, and easy to extend
 - **Website templates** — advanced stack, but lately lots of **Astro** for speed and DX  
 
 No bloat, no trackers — just code that works.
@@ -26,13 +26,12 @@ No bloat, no trackers — just code that works.
 
 | Category | Tools |
 |----------|-------|
-| **OS** | `Debian` `Arch Linux` `macOS` |
-| **Desktop** | `GNOME` `KDE Plasma` `Hyprland` |
+| **OS** | `Debian` `macOS` |
+| **Desktop** | `COSMIC` `Hyprland` |
 | **Editor** | `Zed` `Neovim` |
-| **Browser** | `Firefox` + `uBlock Origin` |
+| **Browser** | `Helium` + `Safari` |
 | **Phone** | `Xiaomi 17 Pro Max` |
 | **Laptop** | `MacBook Air (M4)` |
-| **Music** | `DragonForce` `Gloryhammer` `Electric Callboy` |
 
 ---
 
